@@ -1,1 +1,1 @@
-A Simple Calculator App which will perform simple operation line addition,subtraction,division and multipliaction.
+A Simple Android Application which will perform simple operations like addition,subtraction,division and multiplication.
